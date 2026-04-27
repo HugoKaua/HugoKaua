@@ -2,12 +2,7 @@
 
 ###
 
-<p align="left">Com certeza, Hugo! Ter o perfil em inglês no GitHub é um passo excelente, especialmente para quem busca vagas Home Office, já que muitas empresas que contratam remotamente valorizam (ou exigem) o idioma.
-
-Aqui estão as duas versões adaptadas:
-
-Option 1: About Me (Main Text)
-"My name is Hugo, I'm 21 years old and based in Guarulhos, Brazil. I am currently a student of Analysis and Systems Development (ADS) and I am actively looking for a Home Office position in the tech industry.
+<p align="left">"My name is Hugo, I'm 21 years old and based in Guarulhos, Brazil. I am currently a student of Analysis and Systems Development (ADS) and I am actively looking for a Home Office position in the tech industry.
 
 I hold several certifications and have completed various courses that have built a solid technical foundation. I am passionate about solving problems through code and am constantly upgrading my skills to deliver efficient and scalable solutions.
 
