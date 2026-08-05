@@ -27,7 +27,7 @@ Me chamo Hugo Kauã, tenho 21 anos e sou de Guarulhos/SP. Sou formado em Anális
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img
     align="left"
