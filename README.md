@@ -117,5 +117,3 @@ Me chamo Hugo Kauã, tenho 21 anos e sou de Guarulhos/SP. Sou formado em Anális
 <p align="center">
   <img src="https://raw.githubusercontent.com/HugoKaua/HugoKaua/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
-
-*(essa imagem só aparece depois de configurar o GitHub Action abaixo — veja instruções)*
